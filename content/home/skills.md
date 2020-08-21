@@ -23,13 +23,13 @@ subtitle = ""
   
 [[feature]]
   icon = "vedio"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Movie"
   description = "80%"
   
 [[feature]]
   icon = "book-reader"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Read"
   description = "80%"
   
