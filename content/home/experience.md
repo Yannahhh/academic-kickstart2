@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Shenzhen, Guangdong"
   date_start = "2019-12-20"
-  date_end = "now"
-  description = "Under the supervision of [Prof. Zeng Wei](https://zeng-wei.com) ""
-  #Responsibilities include:
+  date_end = ""
+  description = """Under the supervision of [Prof. Zeng Wei](https://zeng-wei.com)"""
+  # Responsibilities include:
   
  # * Analysing
  # * Modelling
