@@ -15,22 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "utensils"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Eat"
+  description = "100%"
+  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "vedio"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Movie"
+  description = "80%"
+  
+[[feature]]
+  icon = "book-reader"
+  icon_pack = "fas"
+  name = "Read"
+  description = "80%"
+  
+[[feature]]
+  icon = "bed"
+  icon_pack = "fas"
+  name = "Sleep"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
